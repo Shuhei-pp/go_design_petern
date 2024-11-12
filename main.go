@@ -1,8 +1,9 @@
 package main
 
-import "sandbox/dp/src/adapter"
+import "sandbox/dp/src/template"
 
 func main() {
 	// iterator.Main()
-	adapter.Main()
+	// adapter.Main()
+	template.Main()
 }
